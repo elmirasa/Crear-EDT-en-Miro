@@ -3,7 +3,7 @@
 ## Proyecto: Biblioteca Digital v1.0
 
 ### 📊 Diagrama Visual
-![EDT Completa](diagramas/EDT-Biblioteca-v1.0.png)
+![EDT Completa](diagrams/EDT-Biblioteca-v1.0.png)
 
 ### 📋 Detalle por Nivel
 

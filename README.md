@@ -1,7 +1,7 @@
 ## 📋 Estructura de Desglose del Trabajo (EDT/WBS)
 
 ### Diagrama Jerárquico
-![EDT Biblioteca Digital](docs/diagramas/EDT-Biblioteca-v1.0.jpg)
+![EDT Biblioteca Digital](docs/diagramas/EDT-Biblioteca-v1.0.png)
 
 *EDT creada en Miro con asistencia de IA.*
 
